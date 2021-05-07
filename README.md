@@ -25,6 +25,6 @@ MongoDB
 Start Container compose 
 - docker-compose -f docker-compose-dev.yml up
 
-Docker hub liens :
--https://hub.docker.com/repository/docker/tkev/front.2.1
--https://hub.docker.com/repository/docker/tkev/back.2.1
+Docker hub liens 
+- https://hub.docker.com/repository/docker/tkev/front.2.1
+- https://hub.docker.com/repository/docker/tkev/back.2.1
