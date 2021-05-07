@@ -1,0 +1,15 @@
+version: '3'
+
+services:
+    back:  
+        image: back.2.1
+        ports:
+          - "3000:3001"
+    front:
+        image: front.2.1
+        ports:
+            - "80:3000"
+    mongodb:
+        image: mongo:latest
+        ports:
+        - "27017:27017"
