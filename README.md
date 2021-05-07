@@ -1,4 +1,4 @@
----------Market Game Online Bots------------
+Market Game Online Bots
 
 ---- Back ------
 node.js 
