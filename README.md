@@ -31,3 +31,5 @@ Docker hub liens
 
 Problème : 
   - connexion db fonctionnelle en local
+  - arret du container back 
+  - lance le back en local pour que sa fonctionne
