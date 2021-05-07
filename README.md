@@ -28,3 +28,6 @@ Start Container compose
 Docker hub liens 
 - https://hub.docker.com/repository/docker/tkev/front.2.1
 - https://hub.docker.com/repository/docker/tkev/back.2.1
+
+Problème : 
+  - connexion db fonctionnelle ne local
