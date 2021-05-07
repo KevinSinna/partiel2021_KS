@@ -30,4 +30,4 @@ Docker hub liens
 - https://hub.docker.com/repository/docker/tkev/back.2.1
 
 Problème : 
-  - connexion db fonctionnelle ne local
+  - connexion db fonctionnelle en local
