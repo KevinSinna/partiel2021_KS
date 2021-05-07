@@ -1,26 +1,26 @@
 Market Game Online Bots
 
 ---- Back ------
-node.js 
+- node.js 
 
 dependence :
-npm install
+- npm install
 
 Docker : 
-docker build . -t [TAG]
-localhost:3000
+- docker build . -t [TAG]
+- localhost:3000
 
 ---- Front -----
-react.js
+- react.js
 
 Docker : 
-docker build . -t [TAG]
-localhost:80
+- docker build . -t [TAG]
+- localhost:80
 
 MongoDB 
-Collection : Jeux 
-BDName : VideoGame
-localhost:27018 problème recontre sur le port 27017 sur mon poste 
+- Collection : Jeux 
+- BDName : VideoGame
+- localhost:27018 problème recontre sur le port 27017 sur mon poste 
 
 Start Container compose 
-docker-compose -f docker-compose-dev.yml up
+- docker-compose -f docker-compose-dev.yml up
